@@ -1,0 +1,281 @@
+<mjml>
+    <mj-head>
+        <mj-attributes>
+             <mj-section background-color="#ffffff" padding="0px" />
+             <mj-image padding="0px" />   
+             <mj-text padding="0" />
+             <mj-class name="red" background-color="#C00000" />
+             <mj-class name="text-body" font-size="14px" padding-left="20px" line-height="17px" />   
+             <mj-all font-family="Calibri,Helvetica,Arial,sans-serif" />
+        </mj-attributes>
+        <mj-style inline="inline">
+            .body{
+                padding-top: 20px;
+                padding-bottom: 20px;
+            }
+            .bold{
+                font-weight: bold;
+            }
+            .red-button{
+                text-decoration: none;
+                background-color: #C00000;
+                font-weight: bold;
+                color: #ffffff;
+                font-size: 24px;
+                padding-top: 12px;
+                padding-bottom: 12px;
+                padding-left: 15px;
+                padding-right: 15px;
+                border-radius: 10px;
+            }
+            .font-18{
+                font-size: 18px;
+            }
+            .icon-group{
+                max-width: 140px;
+                padding-top: 15px;
+                padding-bottom: 20px;
+            }
+            .text-decor{
+                color: #5d5d5d;
+            }
+        </mj-style>
+    </mj-head>
+    <mj-body css-class="body" background-color="#EBEBEB" width="590px">
+        <mj-include path="components/header.mjml" />
+        <mj-section>
+            <mj-column width="56%">
+                <mj-text padding-left="20px" padding-top="20px" font-size="14px">
+                    Dear Volunteer,
+                </mj-text>
+                <mj-text padding-left="20px" padding-top="20px" font-size="14px" line-height="17px">
+                    As we end our 35th year of helping our neighbors in 
+                    Sandy Springs and Dunwoody, CAC continues to make a 
+                    measurable impact in the lives of neighbors that 
+                    need it the most. From getting families through an 
+                    immediate crisis to helping them get back on their own feet, 
+                    to going one step further and helping them improve their 
+                    financial situation so they can thrive: year after year, 
+                    CAC is where we unite to successfully support families 
+                    and better our community. Your kindness and concern 
+                    or others, expressed through your generous support, 
+                    moves the needle for those in need in an impactful, 
+                    real way that could not be possible without you.
+                </mj-text>
+            </mj-column>
+            <mj-column width="44%">
+                <mj-image src="	https://i.ibb.co/YdV8Nyy/small-girl.png
+" width="210px" padding-top="55px" padding-right="0px" alt="" />
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text padding-top="15px" padding-left="50px" padding-right="50px" padding-bottom="20px" font-size="24px" align="center" font-weight="bold">
+                    CAC's success is the success of our community
+                    to take care of each other.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="red" padding-top="10px" >
+            <mj-column>
+                <mj-text color="#ffffff" align="center" font-size="32px" font-weight="bold">
+                    CAC by the Numbers 
+                </mj-text>
+                <mj-text padding-top="5px" padding-bottom="10px" color="#ffffff" align="center" font-size="14px" font-style="italic">
+                    as of November 2022
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="red" padding-top="10px">
+            <mj-column>
+                <mj-image src="https://i.ibb.co/yXdmGc4/cac-stats.png
+" alt="CAC stats" />
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text mj-class="text-body" padding-top="20px" padding-right="20px">
+                    CAC continues to aid those that need it: food, clothing, and
+                    financial assistance remain at the core of our programs. <span class="bold">We see the economic landscape changing, 
+                    and we are changing with it.</span> Our ability to respond to the needs of our community has created 
+                    amazing returns on our efforts (and your investment) this year:
+                </mj-text>
+                <mj-text font-size="14px" padding-left="20px" padding-right="20px" line-height="17px">
+                    <ul>
+                    <li>Our thrift store took community donations and clothed our 
+                    neighbors in need for free while producing $250,000+ of 
+                    revenue to be used for other CAC programs and operations.</li>
+                    <li>We opened a new Career Center to help those in untenable 
+                    financial situations find a better-paying job to support 
+                    their families. Through a continuously-growing network 
+                    of local businesses like Children’s Healthcare of 
+                    Atlanta and State Farm, volunteer Career Advocates, 
+                    and a partnership with Goodwill of North Georgia, 
+                    hundreds of jobseekers have improved their skills, 
+                    learned insider tips and tricks, and made 
+                    connections to employers that have resulted in 
+                    new career paths to help them weather the 
+                    current economic landscape.</li>
+                    <li>Our Adult Education program added new computer 
+                    classes for an ever-changing workplace to outfit 
+                    students with practical, marketable skills. 
+                    These courses would normally cost hundreds of 
+                    dollars, but are offered free of charge thanks 
+                    to donations and volunteers. XXX adults took 
+                    advantage of the many classes offered by CAC 
+                    this year.
+                    </li>
+                    </ul>
+                </mj-text>
+                <mj-text mj-class="text-body" padding-right="20px">
+                    Together, we make a significant difference in the 
+                    lives of others. Families are stronger, children 
+                    are taken care of, and adults can see the light 
+                    at the end of the tunnel as they pursue 
+                    opportunities to improve their financial stability.
+                </mj-text>
+                <mj-text padding-top="15px" font-size="20px" font-weight="bold" align="center" line-height="24px">
+                    As you consider your year-end contributions, 
+                    we hope you will be inspired by the difference 
+                    you can make with a gift to CAC.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding-top="30px">
+            <mj-column>
+                <mj-text align="center">
+                    <a href="#" class="red-button">Make a Year-End Donation</a>
+                </mj-text>
+                <mj-divider padding-top="45px" border-color="#C00000" border-width="2px" border-style="dashed" />
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text padding-left="20px" padding-top="10px" font-size="24px" font-weight="bold" color="#C00000">
+                    Adopt-a-Family 2022 was a resounding success!
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text mj-class="text-body" padding-top="20px" padding-right="20px">
+                    For the first time in the history of the Adopt-a-Family program, 
+                    every registered family was adopted by a neighbor. 
+                    Our community pulled together to help 613 families with 
+                    1540 children celebrate the holidays with gifts for the children. 
+                    Your generosity has made lifelong happy memories possible 
+                    for so many families: from learning to ride a bike to 
+                    having a warm coat to play outside, your gifts immediately 
+                    impact our community's children in a positive, profound way. 
+                    From all of us at CAC - thank you for making the holidays magical!
+                </mj-text>
+            </mj-column>
+            <mj-column>
+                <mj-image padding-top="20px" padding-right="20px" src="	https://i.ibb.co/TPW0TDv/two-girls.png" alt="" />
+            </mj-column>    
+        </mj-section>
+        <mj-section padding-top="30px">
+            <mj-column>
+                <mj-text align="center">
+                    <a href="#" class="red-button font-18">Read More About Adopt-a-Family 2022</a>
+                </mj-text>
+                <mj-divider padding-top="35px" border-color="#C00000" border-width="2px" border-style="dashed" />
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-image padding-left="20px" padding-top="10px" src="https://i.ibb.co/mqdVRdY/group.png
+" width="265px" height="198px" alt="" />
+            </mj-column>
+            <mj-column>
+                <mj-text padding-left="20px" padding-top="10px" padding-right="20px" font-size="24px" font-weight="bold" color="#C00000" line-height="28px">
+                    VITA Program on track to get clients over $250,000 in total tax returns
+                </mj-text>
+                <mj-text padding-top="20px" padding-bottom="10px" mj-class="text-body">
+                    CAC's participation in the IRS's VITA (Volunteer Income Tax Assistance) 
+                    program netted our clients <span class="bold">$277,639</span> in tax refunds during the 
+                    2021 tax season - and we're ready to do it again!! 
+                    Appointments will start the last week of January. 
+                    Questions? Contact us at <a href="#">vita@ourcac.org</a>.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column width="265px" border="1.5px solid #CCCCCC">
+                <mj-text padding-left="20px" padding-top="10px" padding-bottom="20px" padding-right="20px" font-size="18px" font-weight="bold" color="#C00000" line-height="21px">
+                    Get your taxes done (or tell a friend!)
+                </mj-text>
+                <mj-text mj-class="text-body" align="left">
+                    If your household income is less than $60,000 and you reside in Georgia, 
+                    you qualify for CAC's VITA program! Appointments will start the 
+                    last week of January on Mondays, Wednesdays and Saturdays. 
+                    Once you have an appointment, the VITA team will contact 
+                    you about locations, times, and required documents.
+                </mj-text>
+                <mj-text align="center" padding-top="37px" padding-bottom="20px">
+                    <a href="#" class="red-button font-18">Request an Appointment</a>
+                </mj-text>
+            </mj-column>
+            <mj-column width="10px">
+                
+            </mj-column>
+            <mj-column width="265px" border="1.5px solid #CCCCCC">
+                <mj-text padding-left="20px" padding-top="10px" padding-right="20px" padding-bottom="20px" font-size="18px" font-weight="bold" color="#C00000" line-height="21px">
+                   Help process tax returns and make an immediate difference in our community
+                </mj-text>
+                <mj-text mj-class="text-body" padding-right="10px">
+                    VITA is a volunteer-led program. <span class="bold">No experience is necessary!</span> 
+                    Training only takes a few hours and you'll have experienced 
+                    volunteers reviewing your work. <span class="bold">Your participation as a 
+                    volunteer makes an immediate financial impact on a family in need.</span>
+                </mj-text>
+                <mj-text align="center" padding-top="35px" padding-bottom="35px">
+                    <a href="#" class="red-button font-18">Become a VITA Volunteer</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                 <mj-divider padding-top="10px" border-color="#C00000" border-width="2px" border-style="dashed" />
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text padding-top="12px" align="center" font-size="32px" color="#C00000" font-weight="bold">
+                    Happy Holidays!
+                </mj-text>
+                <mj-text padding-top="25px" padding-left="20px" padding-right="20px" align="center" color="#414042" font-size="17px" line-height="20px">
+                    All of us at CAC wish you a joyful holiday season and a happy New Year.
+                    Thank you for the privilege of serving you and being a part of your community.
+                </mj-text>
+                <mj-image src="	https://i.ibb.co/vLvF3TN/big-girl.png" alt="" padding-top="20px" padding-right="20px" padding-left="20px" padding-bottom="10px" />
+            </mj-column>
+        </mj-section>
+        <mj-section mj-class="red" padding-top="15px" padding-bottom="15px">
+            <mj-column>
+                <mj-text color="#ffffff" font-size="28px" font-style="italic" font-weight="bold" align="center">
+                    CAC will be closed
+                </mj-text>
+                <mj-text color="#ffffff" padding-top="5px" font-size="28px" font-style="italic" font-weight="bold" align="center">
+                    Friday, December 23 - Monday, December 26,
+                </mj-text>
+                <mj-text color="#ffffff" padding-top="5px" font-size="28px" font-style="italic" font-weight="bold" align="center">
+                    and again on Monday, January 2.
+                </mj-text>
+            </mj-column>    
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text color="#C00000" padding-top="20px" padding-left="50px" padding-right="50px" font-size="16px" font-style="italic" align="center" line-height="19px">
+                    Our offices will be open Tuesday, December 27 - Friday, December 30.
+                    Upscale Thrift will be closed Friday, December 23 - Monday December 26, and Thursday, December 29 - Monday, January 2.
+                </mj-text>
+                <mj-text color="#C00000"  padding-left="20px" padding-right="20px" font-size="16px" font-style="italic" align="center" line-height="19px">
+                    CAC will reopen for regular business hours in the new year on Tuesday, January 3.
+                </mj-text>
+                <mj-divider padding-top="20px" border-color="#C00000" border-width="3.5px" border-style="solid" />
+            </mj-column>
+        </mj-section>
+        <mj-include path="components/footer.mjml" />
+    </mj-body>
+</mjml>

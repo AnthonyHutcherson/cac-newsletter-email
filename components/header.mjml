@@ -1,0 +1,12 @@
+<mj-section>
+  <mj-column>
+    <mj-image src="https://i.ibb.co/V9RF1dd/cac-header.jpg" alt="Community Assistance Center" />
+  </mj-column>
+</mj-section>
+<mj-section padding="10px" background-color="#4D4D4D">
+  <mj-column>
+    <mj-text color="#ffffff" align="center" font-size="14px" font-weight="bold">
+      December 2022 • Helping Neighbors in Need in Sandy Springs and Dunwoody Since 1987
+    </mj-text>
+  </mj-column>
+</mj-section>

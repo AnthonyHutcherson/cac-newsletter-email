@@ -1,0 +1,51 @@
+<mj-section>
+            <mj-column>
+                <mj-text mj-class="text-body" padding-top="8px" align="center" font-weight="bold">
+                    Community Assistance Center • <a href="#">volunteers@ourcac.org</a> • <a href="#">www.ourcac.org</a>
+                </mj-text> 
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column mj-class="row">
+                <mj-text mj-class="text-body" padding-top="15px" padding-left="0px" align="center">
+                    Connect with us!
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-group css-class="icon-group">
+            <mj-column>
+                <mj-image src="https://i.ibb.co/Y38H36Q/fb.png
+" width="32px" alt="" align="center" />
+            </mj-column>
+            <mj-column>
+                <mj-image src="	https://i.ibb.co/wWnvYwk/in.png
+" width="32px" alt="" align="center" />
+            </mj-column>
+            <mj-column>
+                <mj-image src="	https://i.ibb.co/S0PNKSw/tw.png
+" width="32px" alt="" align="center" />
+            </mj-column>
+            </mj-group>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-image src="	https://i.ibb.co/TmwFHL5/cac-logo.jpg
+" padding-bottom="20px" width="120px" alt="" />
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-divider padding-top="0" padding-bottom="0"  border-color="#C00000" border-width="3.5px" border-style="solid" />
+            </mj-column>
+        </mj-section>
+        <mj-section>
+            <mj-column>
+                <mj-text mj-class="text-body" padding-top="20px" font-size="12px" align="center" color="#5d5d5d">
+                    Community Assistance Center | 1130 Hightower Trail, Sandy Springs, GA 30350
+                </mj-text>
+                <mj-text mj-class="text-body" padding-bottom="20px" font-size="12px" align="center" color="#5d5d5d" line-height="20px">
+                   <a href="#" class="text-decor">Unsubscribe a.example@gmail.com</a>
+                </mj-text>
+            </mj-column>
+        </mj-section>
